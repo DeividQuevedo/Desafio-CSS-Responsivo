@@ -37,7 +37,6 @@ header {
     color: #FFFFFF;
 }
 
-
 body {
     margin-left: 121px;
     display: inline-block;
@@ -82,12 +81,7 @@ body {
     }
 }
 
-
-
 @media screen and (max-width: 1400px) {
-
-
-    
 
     header > *:not(button[class="button-header"]) {
         display: none;
